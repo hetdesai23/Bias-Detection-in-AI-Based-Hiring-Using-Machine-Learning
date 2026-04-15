@@ -10,6 +10,15 @@ In many real-world scenarios, machine learning models are used to assist hiring 
 
 This project builds a simple classification model to simulate hiring decisions and analyzes whether the model shows bias across different groups.
 
+## Dataset
+
+The dataset used in this project is the **Gender Pay Gap Dataset** sourced from Kaggle.
+
+It focuses on analyzing differences in salaries across genders and includes features related to compensation, job roles, and demographics. This dataset was used to simulate hiring decisions and evaluate potential bias in model predictions.
+
+### Note
+The dataset is used for educational purposes to demonstrate bias detection techniques and may not fully represent real-world hiring systems.
+
 ## Approach
 
 ### 1. Data Preprocessing
